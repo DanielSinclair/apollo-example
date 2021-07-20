@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "web": "node server.js"
+  },
+  "dependencies": {
+    "@apollo/federation": "^0.26.0",
+    "apollo-server": "^3.0.2",
+    "graphql": "^15.5.1"
+  }
+}
